@@ -1,0 +1,29 @@
+_repo: Out-from-the-heart_74178
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: https://en.wikipedia.org/wiki/James_Lane_Allen
+description: ''
+gutenberg_issued: '2024-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74178'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uiug.30112075880150&seq=7
+pgterms:marc905: 20240730105548allen
+pgterms:marc906: '1900'
+pgterms:marc907: en
+production_note: Al Haines
+publication_note: '  $aNew York :$bR. F. Fenno & Company, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Out from the heart
+url: http://www.gutenberg.org/ebooks/74178
